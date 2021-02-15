@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+p{
+    color: white;
+}
+h3{
+    color: white;
+}
+#naslov{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-bottom: 30px;
+    
+}
+p{
+    display: inline;
+    padding-right: 40px;
+}
+
+body{
+    background-image: url(../../Desktop/quiz/img/b.png);
+}
+form{
+    margin-left: 400px;
+    margin-right: 250px;
+}
+#slika img {
+    padding-top: 30px;
+}
+#razmak {
+    padding-top: 30px;
+}
